@@ -24,7 +24,7 @@ more about shipping software that works than chasing the trendiest stack.
 | Project | What it is | Stack |
 |---|---|---|
 | **[Fundscrow](https://fundscrow.com)** | Fintech escrow & corporate card-issuance platform | Next.js · Python/FastAPI · Supabase · PostgreSQL |
-| **[SpeakMove](https://github.com/speakmove)** | AI language-learning product | Next.js · TypeScript · i18n |
+| **[SpeakMove](https://github.com/speakmove)** | AI language-learning product | Next.js · TypeScript · i18n · Python · PostgreSQL · Hetzner |
 | **[CruiseDream](https://cruisedream.ru)** | Cruise booking platform, frontend from greenfield to production (18k+ cruises) | Next.js · TypeScript · Zustand · FSD |
 | **[SMM Planner](https://github.com/DmitriyOne/SMM-planner)** | Social-media planning backend built on NestJS | NestJS · Prisma · PostgreSQL · Swagger |
 | **[PrimCard](https://github.com/DmitriyOne/primcard)** | SaaS platform with Supabase auth & RBAC | Next.js · Supabase · PostgreSQL |
