@@ -1,7 +1,7 @@
 # Hi, I'm Dmitry
 
 **Senior full-stack engineer**  
-TypeScript · Next.js · NestJS · Python · Postgres  
+React · Next.js · TypeScript · Node.js · Python · Postgres  
 Weston-super-Mare, UK · remote across the UK and EU, or hybrid in the UK
 
 Five years taking products from a rough idea to production: scoping, UX, database schema,
