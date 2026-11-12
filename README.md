@@ -1,46 +1,43 @@
-# Hi, I'm Dmitry
+# Dmitry Fenko
 
-**Senior full-stack engineer**  
-React · Next.js · TypeScript · Node.js · Python · Postgres  
-Weston-super-Mare, UK · remote across the UK and EU, or hybrid in the UK
+**Senior Full-Stack Engineer** · TypeScript · React · Next.js · Node.js · Supabase / PostgreSQL · Python<br>
+Weston-super-Mare (Greater Bristol), UK · Full UK right to work, no sponsorship needed
 
-Five years taking products from a rough idea to production: scoping, UX, database schema,
-API, frontend, deploy and monitoring. About half of my work is the other kind — taking over
-systems that already exist and already have users. My first instinct in someone else's
-codebase is never to rewrite it: I read it, work out why it does what it does, then change
-only what needs changing.
+I build web products from the first idea to production: scoping, UX, database schema, API, frontend, deploy and monitoring. I have five years of commercial experience, four of them at [CruiseDream](https://cruisedream.ru), where I started the frontend from an empty repository.
 
-I care more about shipping software that works than about the trendiest stack.
+**Open to:** full-time roles in the UK (remote or hybrid) and remote freelance or contract work.
 
 ## Tech
 
-| | |
-|---|---|
-| **Languages** | TypeScript · JavaScript · Python · SQL |
-| **Frontend** | Next.js · React · React Native · TailwindCSS · Zustand |
-| **Backend** | Node.js (NestJS) · Python (FastAPI) · REST APIs |
-| **Data** | PostgreSQL · Prisma · Supabase |
-| **Infra** | Docker · Jenkins · GitHub Actions · Grafana Loki · Sentry |
+**Frontend:** TypeScript, React, Next.js (App Router), Tailwind CSS 4, Feature-Sliced Design, PWA and Web Push, i18n
 
-## Open code
+**Backend and data:** Node.js (NestJS), Python (FastAPI, aiogram 3, async SQLAlchemy, Alembic), Supabase, PostgreSQL (row-level security, migrations), Prisma
 
-Repositories you can read right now.
+**Testing and quality:** Vitest, pgTAP, Playwright, ESLint, steiger
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[SMM Planner](https://github.com/DmitriyOne/SMM-planner)** | Social-media planning backend: draft → approval → publish across four roles, with per-post author–admin discussion before anything goes live | NestJS · Prisma · PostgreSQL · Swagger |
-| **[PrimCard](https://github.com/DmitriyOne/primcard)** | SaaS platform with Supabase auth and three-tier RBAC | Next.js · Supabase · PostgreSQL |
-| **[Money Bot](https://github.com/DmitriyOne/money-bot)** | Telegram bot for expense tracking | Python |
+**DevOps:** GitHub Actions, pnpm, Vercel, Docker, Sentry
 
-## Product and client work
+**AI-assisted development:** Claude Code every day, with tests, lint rules and ADRs as guardrails
 
-Closed source, but live and in production.
+## How I work
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[Dubai fintech](https://fundscrow.com)** | Escrow and corporate card issuance. Sole engineer: architecture, escrow state machine, automated payouts | Next.js · Python/FastAPI · Supabase · PostgreSQL |
-| **[CruiseDream](https://cruisedream.ru)** | Cruise booking platform, greenfield to production. 18,000+ cruises behind a 16-facet search; the architecture I set in 2022 still runs today | Next.js · TypeScript · Zustand · FSD |
-| **[SpeakMove](https://github.com/speakmove)** | Language-learning product for kids. Sole builder from market analysis to production deploy | Next.js · TypeScript · i18n · Python · PostgreSQL · Hetzner |
+- I do not merge code I cannot explain, whether I or an AI agent wrote it.
+- I fix the code, I do not switch the rule off.
+- I write down important decisions as ADRs and keep a CHANGELOG, so the next person can see why something was done.
+- I measure first, then I change the smallest thing that solves the problem.
+
+## Selected projects
+
+- [market-ops-console](https://github.com/DmitriyOne/market-ops-console): streaming AI assistant with cited sources and an analytical dashboard. Take-home assignment, with a live demo.
+- [ministry-app](https://github.com/DmitriyOne/ministry-app): iPhone-first PWA on Next.js and Supabase, with Web Push, CI, database tests and ADRs.
+- [primcard](https://github.com/DmitriyOne/primcard): Next.js site with an order flow and a Supabase role model built on JWT claims and row-level security.
+
+More in the pinned repositories below.
+
+## Client work (closed source)
+
+- **CruiseDream:** cruise booking platform, from an empty frontend repository to production. Next.js, TypeScript, Feature-Sliced Design.
+- **A Dubai-based fintech (contract):** sole engineer. Escrow service and automated payouts. Next.js, Python (FastAPI), Supabase.
 
 ## Let's connect
 
