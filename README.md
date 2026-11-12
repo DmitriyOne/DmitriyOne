@@ -9,14 +9,32 @@ I build web products from the first idea to production: scoping, UX, database sc
 
 ## Tech
 
-| | |
-|---|---|
-| **Languages** | TypeScript · JavaScript · Python · SQL |
-| **Frontend** | React · Next.js (App Router) · Tailwind CSS 4 · Feature-Sliced Design · PWA and Web Push · i18n |
-| **Backend and data** | Node.js (NestJS) · Python (FastAPI, aiogram 3, async SQLAlchemy, Alembic) · Supabase · PostgreSQL (row-level security, migrations) · Prisma |
-| **Testing and quality** | Vitest · pgTAP · Playwright · ESLint · steiger |
-| **DevOps** | GitHub Actions · pnpm · Vercel · Docker · Sentry |
-| **AI-assisted development** | Claude Code every day, with tests, lint rules and ADRs as guardrails |
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>TypeScript · JavaScript · Python · SQL</td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>React · Next.js (App Router) · Tailwind CSS 4 · Feature-Sliced Design · PWA and Web Push · i18n</td>
+  </tr>
+  <tr>
+    <td><b>Backend and data</b></td>
+    <td>Node.js (NestJS) · Python (FastAPI, aiogram 3, async SQLAlchemy, Alembic) · Supabase · PostgreSQL (row-level security, migrations) · Prisma</td>
+  </tr>
+  <tr>
+    <td><b>Testing and quality</b></td>
+    <td>Vitest · pgTAP · Playwright · ESLint · steiger</td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td>GitHub Actions · pnpm · Vercel · Docker · Sentry</td>
+  </tr>
+  <tr>
+    <td><b>AI-assisted development</b></td>
+    <td>Claude Code every day, with tests, lint rules and ADRs as guardrails</td>
+  </tr>
+</table>
 
 ## How I work
 
