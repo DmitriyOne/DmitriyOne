@@ -1,6 +1,6 @@
 # Dmitry Fenko
 
-**Senior Full-Stack Engineer** · TypeScript · React · Next.js · Node.js · Supabase / PostgreSQL · Python<br>
+**Senior Full-Stack Software Engineer** · TypeScript · React · Next.js · Node.js · Supabase / PostgreSQL · Python<br>
 Weston-super-Mare (Greater Bristol), UK · Full UK right to work, no sponsorship needed
 
 I build web products from the first idea to production: scoping, UX, database schema, API, frontend, deploy and monitoring. I have five years of commercial experience, four of them at [CruiseDream](https://cruisedream.ru), where I started the frontend from an empty repository.
@@ -9,15 +9,14 @@ I build web products from the first idea to production: scoping, UX, database sc
 
 ## Tech
 
-**Frontend:** TypeScript, React, Next.js (App Router), Tailwind CSS 4, Feature-Sliced Design, PWA and Web Push, i18n
-
-**Backend and data:** Node.js (NestJS), Python (FastAPI, aiogram 3, async SQLAlchemy, Alembic), Supabase, PostgreSQL (row-level security, migrations), Prisma
-
-**Testing and quality:** Vitest, pgTAP, Playwright, ESLint, steiger
-
-**DevOps:** GitHub Actions, pnpm, Vercel, Docker, Sentry
-
-**AI-assisted development:** Claude Code every day, with tests, lint rules and ADRs as guardrails
+| | |
+|---|---|
+| **Languages** | TypeScript · JavaScript · Python · SQL |
+| **Frontend** | React · Next.js (App Router) · Tailwind CSS 4 · Feature-Sliced Design · PWA and Web Push · i18n |
+| **Backend and data** | Node.js (NestJS) · Python (FastAPI, aiogram 3, async SQLAlchemy, Alembic) · Supabase · PostgreSQL (row-level security, migrations) · Prisma |
+| **Testing and quality** | Vitest · pgTAP · Playwright · ESLint · steiger |
+| **DevOps** | GitHub Actions · pnpm · Vercel · Docker · Sentry |
+| **AI-assisted development** | Claude Code every day, with tests, lint rules and ADRs as guardrails |
 
 ## How I work
 
