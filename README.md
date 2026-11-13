@@ -3,9 +3,9 @@
 **Senior Full-Stack Software Engineer** · TypeScript · React · Next.js · Node.js · Supabase / PostgreSQL · Python<br>
 Weston-super-Mare (Greater Bristol), UK · Full UK right to work, no sponsorship needed
 
-I build web products from the first idea to production: scoping, UX, database schema, API, frontend, deploy and monitoring. I have five years of commercial experience, four of them at [CruiseDream](https://cruisedream.ru), where I started the frontend from an empty repository.
+I'm a senior full-stack engineer (Node.js, TypeScript, React, Next.js, PostgreSQL, Python/FastAPI). I build from an empty repo or take over a live system, and I use Claude Code every day to move faster. I know what to check in what it writes, and I record every decision in ADRs: why we chose it and what we rejected, so the context stays with the project, for people and for AI agents, instead of restarting with every new chat.
 
-**Open to:** full-time roles in the UK (remote or hybrid) and remote freelance or contract work.
+I have five years of commercial experience, four of them at [CruiseDream](https://cruisedream.ru), where I started the frontend from an empty repository.
 
 ## Tech
 
